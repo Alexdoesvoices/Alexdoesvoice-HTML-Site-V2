@@ -78,4 +78,21 @@ ul.nav {
     text-decoration: none;
     width: 210px;
   }
+  .voice_div_style{
+    background-color: whitesmoke;
+    border: 4px solid;
+    border-color: royalblue;
+    display: block;
+    font-size: large;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: min-content;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
   
