@@ -2,7 +2,9 @@ body{
     /* background-color: beige; */
     margin: 0px;
     background-image: url(./Assets/Themes/Christmas-2024/christmas\ background.jpg);
-    background-size: cover;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-color: #1c1c1c;
 }
 a:hover{
   color: red;
@@ -25,7 +27,6 @@ ul.nav {
     font-family: Georgia;
     float: left;
   }
-  
   li.nav a {
     display: block;
     color: white;
