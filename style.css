@@ -4,6 +4,7 @@ body{
     background-image: url(./Assets/Themes/Christmas-2024/christmas\ background.jpg);
     background-repeat: no-repeat;
     background-color: #1c1c1c;
+    background-size: cover;
     
 }
 a:hover{
