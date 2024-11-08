@@ -4,8 +4,7 @@ body{
     background-image: url(./Assets/Themes/Christmas-2024/christmas\ background.jpg);
     background-repeat: no-repeat;
     background-color: #1c1c1c;
-    background-size: cover;
-    
+    background-size: cover;   
 }
 a:hover{
   color: red;
@@ -15,7 +14,7 @@ ul.nav {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color:;
+    /* background-color:; */
     display: flex;
     justify-content: center;
     margin-top: -10px;
@@ -41,7 +40,7 @@ ul.nav {
     background-color: red;
   }
   .active {
-    background-color: ;
+    /* background-color: ; */
   }
   .borderer {
     border: 1px solid;
