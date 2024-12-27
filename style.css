@@ -7,7 +7,7 @@ body{
     background-size: cover;   
 }
 a:hover{
-  color: red;
+  color: rgb(88, 168, 2);
 }
 ul.nav {
     list-style-type: none;
