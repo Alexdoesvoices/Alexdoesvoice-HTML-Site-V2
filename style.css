@@ -114,4 +114,20 @@ ul.nav {
     top: 0px;
     margin-top: 1px;
   }
+
+
+  /* !ChangeLog Button Start */
+  .changelogbutton {
+    background-color : royalblue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px;
+    border-color: royalblue;
+  }
   
+  #corner_button {
+    position: fixed;
+    bottom: 3px;
+    right: 10px;
+  }
+  /* !ChangeLog Button End */
